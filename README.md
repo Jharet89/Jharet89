@@ -4,3 +4,11 @@
 <img src="https://i.imgur.com/palJG4Q.png">
 
 [![Twitch Status](https://img.shields.io/twitch/status/jharet89?style=social)](https://www.twitch.tv/jharet89)
+
+## About for me
+
+-  ✏️ Github in progress 
+- 📲 Mobile developer in process
+-  🎮 Gamer
+
+## Projects
