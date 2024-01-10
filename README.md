@@ -3,4 +3,4 @@
 </div>
 <img src="https://i.imgur.com/palJG4Q.png">
 
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
+[![Twitch Status](https://img.shields.io/twitch/status/jharet89?style=social)](https://www.twitch.tv/jharet89)
